@@ -2,7 +2,7 @@ package recursion;
 
 import java.util.Scanner;
 
-public class EasyProblem {
+public class FindKCharacterInStringGame1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int k = sc.nextInt();
