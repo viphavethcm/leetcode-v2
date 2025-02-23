@@ -1,4 +1,4 @@
-package recursion;
+package recursion.easy;
 
 public class RemoveLinkedListElement {
 
