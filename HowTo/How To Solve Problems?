@@ -1,0 +1,5 @@
+Palindrome:
+Cach 1:
+ - Tao 2 pointer, 1 pointer di den cuoi danh sach(fast), 1 pointer di den 1/2 danh sach(slow)
+ - Reverse cac phan tu trong pointer slow
+ - So sanh reverse pointer slow va pointer head den khi nao pointer slow == null thi stop
