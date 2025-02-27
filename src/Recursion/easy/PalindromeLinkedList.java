@@ -1,4 +1,4 @@
-package recursion.easy;
+package Recursion.easy;
 
 public class PalindromeLinkedList {
 
